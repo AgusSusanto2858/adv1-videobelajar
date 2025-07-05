@@ -3,8 +3,7 @@
 Platform pembelajaran video interaktif yang memungkinkan pengguna mengakses koleksi video pembelajaran berkualitas tinggi dengan fitur guest mode untuk pengalaman uji coba.
 
 ## 🛠️ Update
-* **Implementasi:** useState
-* **Implementasi:** array objek untuk get, add, update dan delete 
+* **Implementasi:** MockAPI
 
 🎮 Demo Accounts
 Untuk testing, gunakan akun berikut:
